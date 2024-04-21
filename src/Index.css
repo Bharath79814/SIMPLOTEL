@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
+.container{
+    display: flexbox;
+}
+
+.first-form{
+    display: flex;
+}
+
+.bttns{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.bttns button{
+    
+    padding: 12px 30px;
+    font:bold 15pt Arial;
+    margin-right: 30px;
+    margin: None;
+    border: none;
+    background-color: white;
+    
+}
+
+.second-form img{
+    width:100%;
+    height: 100%;
+
+}
+.bottom-left {
+    position: absolute;
+    bottom: -175px;
+    left: 45px;
+    background:linear-gradient(to right,rgb(29, 28, 28), rgb(143, 143, 141));
+    padding-left: 200px;
+    padding-right: 175px;
+    font-size:100%;
+}
+.bottom-left p{
+    font-size: 30px;
+    color: white;
+}
+
+.third-form{
+    display: flex;
+    background-color: rgb(141, 139, 137);
+    margin-top: -4px;
+    margin-bottom: 70px;
+}
+
+.third-form p{
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 30px;
+    font-size: 16px;
+}
+
+.forth-form p{
+    margin-left: 30px;
+    font:bold 50pt Arial;
+    margin-top: 55px;
+}
+
+.forth-form {
+    margin-top: -70px;
+    background-color: rgb(217, 214, 223);
+}
+
+.final-form{
+    display: flex;
+}
+
+.final-form button{
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.rooms p{
+    font:bold 10pt Arial;
+}
+.dining p{
+    font:bold 10pt Arial;
+    text-align:center;
+    margin-right: 150px;
+    
+}
+.pools p{
+    font:bold 10pt Arial;
+    text-align: right;
+    margin-right: 175px;
+}
+
+.final-form img{
+    margin-left: 30px;
+    margin-right: 175px;
+}
+
+.rooms h3{
+    font:bold 10pt Arial;
+    margin-left: 30px;
+}
+.dining h3{
+    font:bold 10pt Arial;
+    margin-left: 150px;
+}
+.pools h3{
+    font:bold 10pt Arial;
+    margin-left: 285px;
+}
+
+
+
+
+.rooms button{
+    margin-left: 30px;
+
+}
+
+.dining button{
+    margin-left: 100px;
+
+}
+
+.pools button{
+    margin-left: 160px;
+}
+
+
+.fa-stack{
+    margin-top: -2px;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
